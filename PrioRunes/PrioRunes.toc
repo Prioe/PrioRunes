@@ -1,0 +1,15 @@
+﻿## Interface: 60000
+## Title: |cffFF6600Prio|rRunes
+## Notes: Death Knight Rune display.
+## Notes-deDE: Runenanzeige für Todesritter.
+## OptionalDeps: Ace3
+## Author: EU - Prio#2790
+## Version: v3.1
+## DefaultState: enabled
+## SavedVariables: PrioRunesDB
+
+embeds.xml
+locales\locales.xml
+media\media.xml
+
+PrioRunes.lua
