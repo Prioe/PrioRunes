@@ -718,8 +718,8 @@ local function GetRunecost()
 	local runecost
 	local spec = GetSpecialization()
 	if spec == 1 then runecost = 30
-	elseif spec == 2 then runecost = 20
-	elseif spec == 3 then runecost = 32
+	elseif spec == 2 then runecost = 25
+	elseif spec == 3 then runecost = 30
 	else runecost = 0 end
 	return runecost
 end
