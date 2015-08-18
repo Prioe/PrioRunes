@@ -4,7 +4,7 @@
 ## Notes-deDE: Runenanzeige für Todesritter.
 ## OptionalDeps: Ace3
 ## Author: EU - Prio#2790
-## Version: v3.2
+## Version: v4.0-alpha
 ## DefaultState: enabled
 ## SavedVariables: PrioRunesDB
 
@@ -13,3 +13,4 @@ locales\locales.xml
 media\media.xml
 
 PrioRunes.lua
+config.lua
