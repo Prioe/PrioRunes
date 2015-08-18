@@ -14,7 +14,7 @@ local GetRuneType, GetRuneCooldown, UnitClass, GetTime, UnitPower, UnitPowerMax,
 local MAX_RUNES = 6	
 	
 local db
-local _, class = UnitClass("player")
+local _,class = UnitClass("player")
 local initialized = false
 local optionsinit = false
 
